@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32323" started-at="2017-12-22T09:51:05Z" finished-at="2017-12-22T09:51:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32323" started-at="2017-12-22T09:51:05Z" finished-at="2017-12-22T09:51:37Z">
+      <class name="com.assignment6.ExcelData">
+        <test-method status="PASS" signature="readExcelAndLaunchBrowser()[pri:0, instance:com.assignment6.ExcelData@757942a1]" name="readExcelAndLaunchBrowser" is-config="true" duration-ms="11972" started-at="2017-12-22T15:21:05Z" finished-at="2017-12-22T15:21:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readExcelAndLaunchBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.assignment6.ExcelData@757942a1]" name="login" duration-ms="4436" started-at="2017-12-22T15:21:17Z" finished-at="2017-12-22T15:21:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="selectDress()[pri:1, instance:com.assignment6.ExcelData@757942a1]" name="selectDress" duration-ms="9876" started-at="2017-12-22T15:21:21Z" finished-at="2017-12-22T15:21:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectDress -->
+        <test-method status="PASS" signature="addToCart()[pri:2, instance:com.assignment6.ExcelData@757942a1]" name="addToCart" duration-ms="4510" started-at="2017-12-22T15:21:31Z" finished-at="2017-12-22T15:21:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="goToAddress()[pri:3, instance:com.assignment6.ExcelData@757942a1]" name="goToAddress" duration-ms="1358" started-at="2017-12-22T15:21:36Z" finished-at="2017-12-22T15:21:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToAddress -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.assignment6.ExcelData@757942a1]" name="closeBrowser" is-config="true" duration-ms="154" started-at="2017-12-22T15:21:37Z" finished-at="2017-12-22T15:21:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.assignment6.ExcelData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
